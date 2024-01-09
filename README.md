@@ -19,8 +19,9 @@ The Analysis Report is the data insights gained from both the Sales and Expenses
 
 
 ### Insights Delivered by : A2Z Data Professional Services. 
-E-mail : a2z.dataprofessionals3@gmail.com. 
-Contact : 0452-7961907.
+E-mail : a2z.dataprofessionals3@gmail.com 
+Contact : 0452-7961907
 
 
-![image](https://github.com/shridhar1504/Rafik-s-Kitchen-Data-Analysis/assets/113985416/f9e4cd44-6210-426a-98cc-3e24310cdc54)
+![image](https://github.com/shridhar1504/Rafik-s-Kitchen-Data-Analysis/assets/113985416/f992cbc0-2370-4719-ad4b-de745fcd0711)
+
