@@ -2,6 +2,7 @@
 
 ## Problem Statement:
 `Business Requirement` - Rafik's Kitchen is a well established Fast-food Restaurant which is also famously known as 'The Taste of Thirunagar' requires the analysis report about their Sales and Revenue. It gives choice of taste for the Customers. As a Stakeholder wants to avoid wastages and maintain inventory that helps to boost the Sales and Revenue.
+
 `Key Issues` - Ensure Customer Needs and Satisfy the Taste of Each Customer and wants to deliver fresh and hygiene food.
 
 ## Solution Approach:
@@ -38,6 +39,7 @@ With the help of data, the following insights were gained:
 4. The Highest Revenue Generating is Day is Sunday with the Revenue of ₹ 18,77,810 and the lowest revenue generating day is Monday and the revenue of ₹ 11,83,335. That shows the weekend sales genartes high revenue.
 5. The month that generated high revenue is March & the revenue is ₹ 9,34,185. This shows that maybe during winter fall the sales is high.
 6. The month that generated low revenue is April & the revenue is ₹ 4,65,350, which is clearly a greater difference compared to other months due to the 15 days of holiday for the Restaurant.
+
 `Business Benefits` - The insights can be used to boost the sales and revenue by atleast 20-30% and the wastages can be reduced.
 ## Conclusion:
 After analysing the Sales data the gained insights is delivered to the Stakeholders in a visualization manner for better understanding and readability.
