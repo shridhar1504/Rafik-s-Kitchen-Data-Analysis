@@ -11,6 +11,9 @@ The Expenses Data is analysed with the help of Structured Query Language (SQL) a
 The Analysis Report is the data insights gained from both the Sales and Expenses Data and the gained insights are visualized with Power BI tool. The visualization clearly explains the main Key Performance Indicators (KPI's) that helps to identify Yearly Profit and Profit Margin of the year. Comparatively the Sales Data and Expenses Data, the insights that are drawn from the both the data helps to devise much more Ideal Business Strategies that helps the growth of the business among the local competitors. The Report includes Power BI file, Microsoft Office Powerpoint (PPT) Presentation and also the PPT file is converted to Portable Document Format (PDF) file for better readability.
 
 ### Stakeholder Information : Rafik's Kitchen, GST Main Road, Tirunagar, Madurai - 625006.
+[Check out here for Location](https://maps.app.goo.gl/WhF22ShAvDXNbyQg6)
+![image](https://github.com/shridhar1504/Rafik-s-Kitchen-Data-Analysis/assets/113985416/47fa6e41-9507-495a-b663-39b4e1f8fcb9)
+
 
 
 ### Insights Delivered by : A2Z Data Professional Services. 
