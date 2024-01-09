@@ -3,7 +3,7 @@
 ## Problem Statement:
 `Business Requirement` - Rafik's Kitchen is a well established Fast-food Restaurant which is also famously known as 'The Taste of Thirunagar' requires the analysis report about their Sales and Revenue. It gives choice of taste for the Customers. As a Stakeholder wants to avoid wastages and maintain inventory that helps to boost the Sales and Revenue.
 
-`Key Issues` - Ensure Customer Needs and Satisfy the Taste of Each Customer and wants to deliver fresh and hygiene food.
+`Key Issues` - Ensure Customer Needs and Satisfy the Taste of Each Customer and wants to deliver fresh and hygiene food. Identify the Revenue and Boosting the Sales.
 
 ## Solution Approach:
 The aim is to analyse the data and deliver the gained insights that helps to boost the Sales and Revenue. The main focus is to find high selling items and high revenue generating items also to identify the most used payment mode among the Cutomers.
