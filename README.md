@@ -13,4 +13,6 @@ The Analysis Report is the data insights gained from both the Sales and Expenses
 ### Stakeholder Information : Rafik's Kitchen, GST Main Road, Tirunagar, Madurai - 625006.
 
 
-### Insights Delivered by : A2Z Data Professional Services. E-mail : a2z.dataprofessionals3@gmail.com. Contact : 0452-7961907.
+### Insights Delivered by : A2Z Data Professional Services. 
+E-mail : a2z.dataprofessionals3@gmail.com. 
+Contact : 0452-7961907.
