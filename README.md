@@ -26,4 +26,3 @@ Contact : 0452-7961907
 
 
 ![image](https://github.com/shridhar1504/Rafik-s-Kitchen-Data-Analysis/assets/113985416/f992cbc0-2370-4719-ad4b-de745fcd0711)
-
