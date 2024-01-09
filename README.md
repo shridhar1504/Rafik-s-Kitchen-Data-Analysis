@@ -12,6 +12,8 @@ The Analysis Report is the data insights gained from both the Sales and Expenses
 
 ### Stakeholder Information : Rafik's Kitchen, GST Main Road, Tirunagar, Madurai - 625006.
 [Check out here for Location](https://maps.app.goo.gl/WhF22ShAvDXNbyQg6)
+
+
 ![image](https://github.com/shridhar1504/Rafik-s-Kitchen-Data-Analysis/assets/113985416/47fa6e41-9507-495a-b663-39b4e1f8fcb9)
 
 
