@@ -11,4 +11,4 @@ The Data is collected from Fast-food Restaurant about their Expenses in 2022.
 - Measuring Credit Amount and Percentage of Credit Amount for Each Expenses Category.
 - Calculating Monthly Credit Amount and Percentage of Credit Purchase.
 - Find the Yearly & Monthly Expenses for Category - Salary, Rent and EB with the Percentage.
-- Calculate the Total Discount Amount by Expenses Category and Percentage of it. 
+- Calculate the Total Discount Amount by Expenses Category and Percentage of it.
